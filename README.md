@@ -1,2 +1,2 @@
-# unique_area_bigquery
+# Unique Area in BigQuery
 Calculating the unique area of a large number (100K+) of intersecting geometries (fields, delivery zones, etc.) in BigQuery

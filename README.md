@@ -23,14 +23,12 @@ We follow the algorythm:
 4. Sum area of each cell's union and get the result
 
 Script `calculate_grid_intersections.sql` executes steps 1-2:
-```sql
-calculate_grid_intersections.sql
-```
+
+https://github.com/arkazantsev8/unique_area_bigquery/blob/9e0b769f962e975894d2965eb89e71865e7f9be3/calculate_grid_intersections.sql#L1-L42
 
 Script `calculate_unique_area.sql` executes steps 3-4:
-```sql
-calculate_unique_area.sql
-```
+
+https://github.com/arkazantsev8/unique_area_bigquery/blob/9e0b769f962e975894d2965eb89e71865e7f9be3/calculate_unique_area.sql#L1-L13
 
 
 
